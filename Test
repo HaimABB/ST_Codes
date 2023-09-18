@@ -1,0 +1,11 @@
+PROGRAM Test 
+VAR 
+  Test1 : bool;
+END_VAR
+
+//Code lines
+
+ Out1 := false;
+IF Test1 then
+  Out1 := true;
+END_IF
